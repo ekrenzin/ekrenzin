@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekrenzin&count_private=true)
+
 <!--
 **ekrenzin/ekrenzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
