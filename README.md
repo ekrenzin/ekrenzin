@@ -10,12 +10,15 @@ Welcome to my github repo, I appreciate you stopping by!
 # This is me:
 <img src="https://eankrenzin.com/_app/immutable/assets/me-a697f997.jpeg" alt="ME" style="width: 200px; height: 300px; border: 2px solid black; float: left; margin-right: 20px; object-fit: cover;">
 
-## Check out my website & favorite projects
-
+## Check out my website
 - [eankrenzin.com](https://eankrenzin.com)
+
+## My projects
 - [Desktop Vision](https://desktop.vision)
 - [Couch Live](https://couch.live)
 
+## Completely for fun
+- [Trivia Climb](https://www.triviaclimb.com/trivia)
 
 
 <!--
